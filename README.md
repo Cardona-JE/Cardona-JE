@@ -23,5 +23,5 @@ I'm passionate about software development, especially backend systems.
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Esteban_Cardona-0077B5?logo=linkedin)](https://linkedin.com/in/juan-esteban-cardona)  
-[![GitHub](https://img.shields.io/badge/GitHub-Cardona--JE-181717?logo=github)](https://github.com/Cardona-JE)  
+
 
