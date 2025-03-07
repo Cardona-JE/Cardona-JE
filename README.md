@@ -12,7 +12,7 @@ I'm passionate about software development, especially backend systems.
 
 - 🖨️ **[Lithography Management System](https://github.com/litografiaUCC)**  
   Order management module built with Spring Boot and database integration.  
-  *RESTful APIs | SQL Schema Design | Agile Teamwork*.
+  *Order Management Module*.
 
 ### Technical Skills
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Framework-6DB33F?logo=spring&logoColor=white)
